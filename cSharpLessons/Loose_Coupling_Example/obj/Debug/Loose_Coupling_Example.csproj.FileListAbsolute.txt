@@ -1,0 +1,11 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\Loose_Coupling_Example\bin\Debug\Loose_Coupling_Example.exe.config
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\Loose_Coupling_Example\bin\Debug\Loose_Coupling_Example.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\Loose_Coupling_Example\bin\Debug\Loose_Coupling_Example.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\Loose_Coupling_Example\obj\Debug\Loose_Coupling_Example.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\Loose_Coupling_Example\obj\Debug\Loose_Coupling_Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\Loose_Coupling_Example\obj\Debug\Loose_Coupling_Example.Form1.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\Loose_Coupling_Example\obj\Debug\Loose_Coupling_Example.Properties.Resources.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\Loose_Coupling_Example\obj\Debug\Loose_Coupling_Example.csproj.GenerateResource.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\Loose_Coupling_Example\obj\Debug\Loose_Coupling_Example.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\Loose_Coupling_Example\obj\Debug\Loose_Coupling_Example.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\Loose_Coupling_Example\obj\Debug\Loose_Coupling_Example.pdb

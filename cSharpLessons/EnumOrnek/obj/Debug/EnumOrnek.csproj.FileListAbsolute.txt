@@ -1,0 +1,11 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\EnumOrnek\bin\Debug\EnumOrnek.exe.config
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\EnumOrnek\bin\Debug\EnumOrnek.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\EnumOrnek\bin\Debug\EnumOrnek.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\EnumOrnek\obj\Debug\EnumOrnek.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\EnumOrnek\obj\Debug\EnumOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\EnumOrnek\obj\Debug\EnumOrnek.Form1.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\EnumOrnek\obj\Debug\EnumOrnek.Properties.Resources.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\EnumOrnek\obj\Debug\EnumOrnek.csproj.GenerateResource.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\EnumOrnek\obj\Debug\EnumOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\EnumOrnek\obj\Debug\EnumOrnek.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\EnumOrnek\obj\Debug\EnumOrnek.pdb

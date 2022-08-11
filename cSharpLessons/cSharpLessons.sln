@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpLessons", "cSharpLessons\cSharpLessons.csproj", "{1DD54CF6-1DA5-4306-98E5-91062ADD1A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loose_Coupling_Example", "Loose_Coupling_Example\Loose_Coupling_Example.csproj", "{42CF928D-D904-4BB0-A1E1-90EEE0CD8D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Struct", "OOP_Struct\OOP_Struct.csproj", "{5051A9E0-C906-4C08-B0DF-484437E36D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_Enum", "oop_Enum\oop_Enum.csproj", "{8643186C-DB9F-44E8-9AE4-FD87B9BD4A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumOrnek", "EnumOrnek\EnumOrnek.csproj", "{81955A10-818F-4FDE-A775-E8A4F9834CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelKayitUygulamasi", "PersonelKayitUygulamasi\PersonelKayitUygulamasi.csproj", "{9F32712C-FC62-45DD-8596-B450D0B6B223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DD54CF6-1DA5-4306-98E5-91062ADD1A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD54CF6-1DA5-4306-98E5-91062ADD1A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD54CF6-1DA5-4306-98E5-91062ADD1A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD54CF6-1DA5-4306-98E5-91062ADD1A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42CF928D-D904-4BB0-A1E1-90EEE0CD8D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CF928D-D904-4BB0-A1E1-90EEE0CD8D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42CF928D-D904-4BB0-A1E1-90EEE0CD8D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42CF928D-D904-4BB0-A1E1-90EEE0CD8D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5051A9E0-C906-4C08-B0DF-484437E36D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5051A9E0-C906-4C08-B0DF-484437E36D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5051A9E0-C906-4C08-B0DF-484437E36D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5051A9E0-C906-4C08-B0DF-484437E36D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8643186C-DB9F-44E8-9AE4-FD87B9BD4A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8643186C-DB9F-44E8-9AE4-FD87B9BD4A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8643186C-DB9F-44E8-9AE4-FD87B9BD4A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8643186C-DB9F-44E8-9AE4-FD87B9BD4A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81955A10-818F-4FDE-A775-E8A4F9834CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81955A10-818F-4FDE-A775-E8A4F9834CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81955A10-818F-4FDE-A775-E8A4F9834CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81955A10-818F-4FDE-A775-E8A4F9834CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F32712C-FC62-45DD-8596-B450D0B6B223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F32712C-FC62-45DD-8596-B450D0B6B223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F32712C-FC62-45DD-8596-B450D0B6B223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F32712C-FC62-45DD-8596-B450D0B6B223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD3695B4-1FF9-493E-BF70-EACFC8AC9A41}
+	EndGlobalSection
+EndGlobal

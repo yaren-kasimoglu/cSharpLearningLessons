@@ -1,0 +1,11 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\OOP_Struct\bin\Debug\OOP_Struct.exe.config
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\OOP_Struct\bin\Debug\OOP_Struct.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\OOP_Struct\bin\Debug\OOP_Struct.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\OOP_Struct\obj\Debug\OOP_Struct.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\OOP_Struct\obj\Debug\OOP_Struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\OOP_Struct\obj\Debug\OOP_Struct.Form1.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\OOP_Struct\obj\Debug\OOP_Struct.Properties.Resources.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\OOP_Struct\obj\Debug\OOP_Struct.csproj.GenerateResource.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\OOP_Struct\obj\Debug\OOP_Struct.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\OOP_Struct\obj\Debug\OOP_Struct.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\OOP_Struct\obj\Debug\OOP_Struct.pdb
