@@ -10,3 +10,15 @@ C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\De
 C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\PersonelKayitUygulamasi\obj\Debug\PersonelKayitUygulamasi.csproj.CoreCompileInputs.cache
 C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\PersonelKayitUygulamasi\obj\Debug\PersonelKayitUygulamasi.exe
 C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\DenemeGit\cSharpLessons\PersonelKayitUygulamasi\obj\Debug\PersonelKayitUygulamasi.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\PersonelKayitUygulamasi\bin\Debug\PersonelKayitUygulamasi.exe.config
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\PersonelKayitUygulamasi\bin\Debug\PersonelKayitUygulamasi.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\PersonelKayitUygulamasi\bin\Debug\PersonelKayitUygulamasi.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\PersonelKayitUygulamasi\obj\Debug\PersonelKayitUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\PersonelKayitUygulamasi\obj\Debug\PersonelKayitUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\PersonelKayitUygulamasi\obj\Debug\PersonelKayitUygulamasi.Form1.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\PersonelKayitUygulamasi\obj\Debug\PersonelKayitUygulamasi.NewUser.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\PersonelKayitUygulamasi\obj\Debug\PersonelKayitUygulamasi.Properties.Resources.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\PersonelKayitUygulamasi\obj\Debug\PersonelKayitUygulamasi.csproj.GenerateResource.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\PersonelKayitUygulamasi\obj\Debug\PersonelKayitUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\PersonelKayitUygulamasi\obj\Debug\PersonelKayitUygulamasi.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\PersonelKayitUygulamasi\obj\Debug\PersonelKayitUygulamasi.pdb

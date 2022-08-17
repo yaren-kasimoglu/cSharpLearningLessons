@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormApplications", "FormApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesi", "HesapMakinesi\HesapMakinesi.csproj", "{73BDCEF4-0BA6-4E1A-9211-3A9B276AE204}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{02781B75-F1E3-4413-9F6A-3FD97D5E6C95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{73BDCEF4-0BA6-4E1A-9211-3A9B276AE204}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73BDCEF4-0BA6-4E1A-9211-3A9B276AE204}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73BDCEF4-0BA6-4E1A-9211-3A9B276AE204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02781B75-F1E3-4413-9F6A-3FD97D5E6C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02781B75-F1E3-4413-9F6A-3FD97D5E6C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02781B75-F1E3-4413-9F6A-3FD97D5E6C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02781B75-F1E3-4413-9F6A-3FD97D5E6C95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

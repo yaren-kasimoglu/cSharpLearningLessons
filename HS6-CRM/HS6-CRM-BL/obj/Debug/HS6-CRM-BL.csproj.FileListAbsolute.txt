@@ -1,0 +1,11 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\HS6-CRM\HS6-CRM-BL\bin\Debug\HS6-CRM-BL.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\HS6-CRM\HS6-CRM-BL\bin\Debug\HS6-CRM-BL.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\HS6-CRM\HS6-CRM-BL\bin\Debug\HS6-CRM-DAL.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\HS6-CRM\HS6-CRM-BL\bin\Debug\HS6-CRM-Enttities.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\HS6-CRM\HS6-CRM-BL\bin\Debug\HS6-CRM-DAL.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\HS6-CRM\HS6-CRM-BL\bin\Debug\HS6-CRM-Enttities.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\HS6-CRM\HS6-CRM-BL\obj\Debug\HS6-CRM-BL.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\HS6-CRM\HS6-CRM-BL\obj\Debug\HS6-CRM-BL.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\HS6-CRM\HS6-CRM-BL\obj\Debug\HS6-CRM-BL.csproj.CopyComplete
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\HS6-CRM\HS6-CRM-BL\obj\Debug\HS6-CRM-BL.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\HS6-CRM\HS6-CRM-BL\obj\Debug\HS6-CRM-BL.pdb
