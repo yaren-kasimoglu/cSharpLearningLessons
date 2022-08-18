@@ -13,6 +13,7 @@ namespace Serilization_Examplee
 {
     public partial class Form2 : Form
     {
+        Customer customer = new Customer();
         public Form2()
         {
             InitializeComponent();
@@ -20,12 +21,19 @@ namespace Serilization_Examplee
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Customer customer = new Customer();
+
             customer.Id = 1;
-            customer.CustomerName = "Yarem";
+            customer.CustomerName = "Yaren";
             customer.Adres = "İzmit";
 
+            string jsonValue = Newtonsoft.Json.JsonConvert.SerializeObject(customer);
+            txtJson.Text = jsonValue;
+        }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string jsonValue = txtJson.Text;
+            var customer = Newtonsoft.Json.JsonConvert.DeserializeObject<Customer>(jsonValue);
         }
     }
 }

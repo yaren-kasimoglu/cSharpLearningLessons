@@ -9,3 +9,7 @@ C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\De
 C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\Serilization_Examplee\obj\Debug\Serilization_Examplee.csproj.CoreCompileInputs.cache
 C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\Serilization_Examplee\obj\Debug\Serilization_Examplee.exe
 C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\Serilization_Examplee\obj\Debug\Serilization_Examplee.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\Serilization_Examplee\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\Serilization_Examplee\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\Serilization_Examplee\obj\Debug\Serilization_Examplee.Form2.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\Serilization_Examplee\obj\Debug\Serilization_Examplee.csproj.CopyComplete

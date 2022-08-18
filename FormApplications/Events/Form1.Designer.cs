@@ -32,6 +32,8 @@
             this.listBox2 = new System.Windows.Forms.ListBox();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.btnAllAdd = new System.Windows.Forms.Button();
+            this.btnAllRemove = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listBox1
@@ -47,7 +49,7 @@
             // 
             this.listBox2.FormattingEnabled = true;
             this.listBox2.ItemHeight = 20;
-            this.listBox2.Location = new System.Drawing.Point(399, 29);
+            this.listBox2.Location = new System.Drawing.Point(425, 23);
             this.listBox2.Name = "listBox2";
             this.listBox2.Size = new System.Drawing.Size(354, 364);
             this.listBox2.TabIndex = 1;
@@ -72,11 +74,33 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // btnAllAdd
+            // 
+            this.btnAllAdd.Location = new System.Drawing.Point(363, 62);
+            this.btnAllAdd.Name = "btnAllAdd";
+            this.btnAllAdd.Size = new System.Drawing.Size(44, 58);
+            this.btnAllAdd.TabIndex = 4;
+            this.btnAllAdd.Text = ">>";
+            this.btnAllAdd.UseVisualStyleBackColor = true;
+            this.btnAllAdd.Click += new System.EventHandler(this.btnAllAdd_Click);
+            // 
+            // btnAllRemove
+            // 
+            this.btnAllRemove.Location = new System.Drawing.Point(363, 308);
+            this.btnAllRemove.Name = "btnAllRemove";
+            this.btnAllRemove.Size = new System.Drawing.Size(44, 58);
+            this.btnAllRemove.TabIndex = 5;
+            this.btnAllRemove.Text = "<<";
+            this.btnAllRemove.UseVisualStyleBackColor = true;
+            this.btnAllRemove.Click += new System.EventHandler(this.btnAllRemove_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnAllRemove);
+            this.Controls.Add(this.btnAllAdd);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.listBox2);
@@ -95,6 +119,8 @@
         private System.Windows.Forms.ListBox listBox2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnAllAdd;
+        private System.Windows.Forms.Button btnAllRemove;
     }
 }
 

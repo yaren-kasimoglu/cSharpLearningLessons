@@ -49,12 +49,40 @@ namespace Events
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (listBox2.SelectedIndex>-1)
+            AllAdd();
+        }
+
+        private void AllAdd()
+        {
+            if (listBox2.SelectedIndex > -1)
             {
                 string item = listBox2.SelectedItem.ToString();
                 listBox1.Items.Add(item);
                 listBox2.Items.Remove(item);
             }
+        }
+
+        private void btnAllAdd_Click(object sender, EventArgs e)
+        {
+            foreach (string item in listBox1.Items)
+            {
+                listBox2.Items.Add(item);
+            }
+            listBox1.Items.Clear();
+        }
+
+        private void btnAllRemove_Click(object sender, EventArgs e)
+        {
+            AllRemove();
+        }
+
+        private void AllRemove()
+        {
+            foreach (string item in listBox2.Items)
+            {
+                listBox1.Items.Add(item);
+            }
+            listBox2.Items.Clear();
         }
     }
 }
