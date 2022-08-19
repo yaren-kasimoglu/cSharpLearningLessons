@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Serilization_Examplee.Model
 {
-    public class Currency
+    public class Curency
     {
+        public string CurrencyName { get; set; }
+        public decimal ForexBuying { get; set; }
+        public decimal ForexSelling { get; set; }
+
+        public override string ToString()
+        {
+            return $"{CurrencyName} Alış={ForexBuying}  Satış={ForexSelling}";
+        }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DictionaryForm.Model;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -17,6 +18,12 @@ namespace DictionaryForm
         {
             InitializeComponent();
         }
+        int id = 0;
+
+        Student selectedStudent; //değişken tanımlaması
+
+        //Öğrenci listesi
+        ArrayList studentList = new ArrayList();
 
         ArrayList classList = new ArrayList()
         {
@@ -45,6 +52,131 @@ namespace DictionaryForm
                 cmbSinif.Items.Add(item);
             }
             cmbSinif.SelectedIndex = 0;
+        }
+
+        /// <summary>
+        /// ekrandaki bütün kontrolleri temizlemek için kullanılacak
+        /// </summary>
+        private void FormClear()
+        {
+            txtTc.Text = "";
+            txtAdSoyad.Text = "";
+            txtMail.Text = "";
+            cmbSinif.SelectedIndex = 0;
+
+            //ekranı boşaltırken eğer seçili bir nesne var ise onu da null set et
+            selectedStudent = null;
+
+        }
+        private void btnYeni_Click(object sender, EventArgs e)
+        {
+            FormClear();
+        }
+
+        private void FormSave()
+        {
+            Student student = null;
+
+            if (selectedStudent != null)
+            {
+                //seçilen nesneyi al
+                student = selectedStudent;
+            }
+            else
+            {
+                //yeni bir instance al
+                student = new Student();
+                student.Id = GetId();
+                studentList.Add(student);
+            }
+
+            student.NameSurname = txtAdSoyad.Text;
+            student.Email = txtMail.Text;
+            student.TcNo = txtTc.Text;
+
+            student.ClassNumber = cmbSinif.SelectedItem.ToString();
+            if (rdbErkek.Checked)
+            {
+                student.Gender = true;
+            }
+            else
+            {
+                student.Gender = false;
+            }
+
+            RefreshListbox();
+
+            FormClear();
+
+        }
+        private void RefreshListbox()
+        {
+            lstOgrenciler.Items.Clear();
+            foreach (var student in studentList)
+            {
+                lstOgrenciler.Items.Add(student);
+            }
+        }
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            FormSave();
+        }
+
+        private int GetId()
+        {
+            return ++id;
+        }
+
+        private void lstOgrenciler_DoubleClick(object sender, EventArgs e)
+        {
+            if (lstOgrenciler.SelectedIndex == -1)
+            {
+                return;
+            }
+            //ben listbox içerisindeki item student nesnesini attım
+            // boxing unboxing olayını yapıyorum ve seçilen item bir öğrencidir diyorum
+
+            selectedStudent = lstOgrenciler.SelectedItem as Student;
+
+            //seçilen student bilgilerini tekrardan ekrana bassın (güncellendikten sonra)
+            FillRecordForm();
+        }
+
+        private void FillRecordForm()
+        {
+            txtTc.Text = selectedStudent.TcNo;
+            txtAdSoyad.Text = selectedStudent.NameSurname;
+            txtMail.Text = selectedStudent.Email;
+
+            if (selectedStudent.Gender == true)
+            {
+                rdbErkek.Checked = true;
+            }
+            else
+            {
+                rdbKadin.Checked = true;
+            }
+
+        }
+
+        private void RecordRemove()
+        {
+            if (selectedStudent!=null)
+            {
+
+                var dialogResult = MessageBox.Show("seçilen kaydı silmek istiyor musunuz?","öğrenci otomasyonu",MessageBoxButtons.OKCancel,MessageBoxIcon.Question);
+                if (dialogResult == DialogResult.OK)
+                {
+                    studentList.Remove(selectedStudent);
+                    RefreshListbox();
+                    FormClear();
+                }
+            }
+        }
+
+        private void btnRemove_Click(object sender, EventArgs e)
+        {
+            RecordRemove();
         }
     }
 }

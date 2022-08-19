@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Serilization_Examplee.Model
 {
@@ -11,11 +12,10 @@ namespace Serilization_Examplee.Model
     public class FormConfig
     {
 
-        public string Text { get; set; }
-        public Color  BackColor { get; set; }
-        public int Widht { get; set; }
-        public int Height { get; set; }
-
-
+            public string Text { get; set; }
+            public ConsoleColor BagColor { get; set; }
+            public int Width { get; set; }
+            public int Height { get; set; }
+            public FormBorderStyle borderStyle { get; set; }
+        }
     }
-}
