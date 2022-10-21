@@ -1,0 +1,11 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\ADONET_ConnectedArt\bin\Debug\ADONET_ConnectedArt.exe.config
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\ADONET_ConnectedArt\bin\Debug\ADONET_ConnectedArt.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\ADONET_ConnectedArt\bin\Debug\ADONET_ConnectedArt.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\ADONET_ConnectedArt\obj\Debug\ADONET_ConnectedArt.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\ADONET_ConnectedArt\obj\Debug\ADONET_ConnectedArt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\ADONET_ConnectedArt\obj\Debug\ADONET_ConnectedArt.Form1.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\ADONET_ConnectedArt\obj\Debug\ADONET_ConnectedArt.Properties.Resources.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\ADONET_ConnectedArt\obj\Debug\ADONET_ConnectedArt.csproj.GenerateResource.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\ADONET_ConnectedArt\obj\Debug\ADONET_ConnectedArt.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\ADONET_ConnectedArt\obj\Debug\ADONET_ConnectedArt.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\ADONET_ConnectedArt\obj\Debug\ADONET_ConnectedArt.pdb

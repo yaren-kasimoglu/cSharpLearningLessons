@@ -1,0 +1,15 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\obj\Debug\ADONETODEV1.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\obj\Debug\ADONETODEV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\obj\Debug\ADONETODEV1.CategoryForm.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\obj\Debug\ADONETODEV1.CustomerForm.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\obj\Debug\ADONETODEV1.MainForm.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\obj\Debug\ADONETODEV1.ProductForm.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\obj\Debug\ADONETODEV1.Properties.Resources.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\obj\Debug\ADONETODEV1.csproj.GenerateResource.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\obj\Debug\ADONETODEV1.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\bin\Debug\ADONETODEV1.exe.config
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\bin\Debug\ADONETODEV1.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\bin\Debug\ADONETODEV1.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\obj\Debug\ADONETODEV1.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\obj\Debug\ADONETODEV1.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONETODEV1\ADONETODEV1\obj\Debug\ADONETODEV1.ShipperForm.resources

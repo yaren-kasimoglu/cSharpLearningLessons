@@ -1,0 +1,11 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FormApplications\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FormApplications\StackAndQueue\bin\Debug\StackAndQueue.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FormApplications\StackAndQueue\bin\Debug\StackAndQueue.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FormApplications\StackAndQueue\obj\Debug\StackAndQueue.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FormApplications\StackAndQueue\obj\Debug\StackAndQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FormApplications\StackAndQueue\obj\Debug\StackAndQueue.Form1.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FormApplications\StackAndQueue\obj\Debug\StackAndQueue.Properties.Resources.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FormApplications\StackAndQueue\obj\Debug\StackAndQueue.csproj.GenerateResource.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FormApplications\StackAndQueue\obj\Debug\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FormApplications\StackAndQueue\obj\Debug\StackAndQueue.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FormApplications\StackAndQueue\obj\Debug\StackAndQueue.pdb

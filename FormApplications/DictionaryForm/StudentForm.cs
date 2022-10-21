@@ -119,7 +119,22 @@ namespace DictionaryForm
         }
         private void btnSave_Click(object sender, EventArgs e)
         {
-            FormSave();
+            if (FormValid())
+            {
+                FormSave();
+            }
+            
+        }  
+        private bool FormValid()
+        {
+            bool result = true;
+            if (string.IsNullOrWhiteSpace(txtTc.Text))
+            {
+                MessageBox.Show("Tc kimlik no alanını doldurun", "Öğrenci Otomasyonu", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                txtTc.Focus();
+                result = false;
+            }
+            return result;
         }
 
         private int GetId()
@@ -163,8 +178,7 @@ namespace DictionaryForm
         {
             if (selectedStudent!=null)
             {
-
-                var dialogResult = MessageBox.Show("seçilen kaydı silmek istiyor musunuz?","öğrenci otomasyonu",MessageBoxButtons.OKCancel,MessageBoxIcon.Question);
+                var dialogResult = MessageBox.Show("Kaydı silmek istiyor musunuz", "Öğrenci otomasyyonu", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
                 if (dialogResult == DialogResult.OK)
                 {
                     studentList.Remove(selectedStudent);

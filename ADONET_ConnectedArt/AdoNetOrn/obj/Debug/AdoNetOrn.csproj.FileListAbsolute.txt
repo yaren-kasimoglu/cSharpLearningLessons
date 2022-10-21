@@ -1,0 +1,11 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetOrn\bin\Debug\AdoNetOrn.exe.config
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetOrn\bin\Debug\AdoNetOrn.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetOrn\bin\Debug\AdoNetOrn.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetOrn\obj\Debug\AdoNetOrn.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetOrn\obj\Debug\AdoNetOrn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetOrn\obj\Debug\AdoNetOrn.Form1.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetOrn\obj\Debug\AdoNetOrn.Properties.Resources.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetOrn\obj\Debug\AdoNetOrn.csproj.GenerateResource.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetOrn\obj\Debug\AdoNetOrn.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetOrn\obj\Debug\AdoNetOrn.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetOrn\obj\Debug\AdoNetOrn.pdb

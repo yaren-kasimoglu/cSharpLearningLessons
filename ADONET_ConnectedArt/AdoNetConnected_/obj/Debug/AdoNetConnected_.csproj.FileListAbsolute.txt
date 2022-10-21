@@ -1,0 +1,12 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetConnected_\bin\Debug\AdoNetConnected_.exe.config
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetConnected_\bin\Debug\AdoNetConnected_.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetConnected_\bin\Debug\AdoNetConnected_.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetConnected_\obj\Debug\AdoNetConnected_.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetConnected_\obj\Debug\AdoNetConnected_.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetConnected_\obj\Debug\AdoNetConnected_.Form1.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetConnected_\obj\Debug\AdoNetConnected_.Properties.Resources.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetConnected_\obj\Debug\AdoNetConnected_.csproj.GenerateResource.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetConnected_\obj\Debug\AdoNetConnected_.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetConnected_\obj\Debug\AdoNetConnected_.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetConnected_\obj\Debug\AdoNetConnected_.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\ADONET_ConnectedArt\AdoNetConnected_\obj\Debug\AdoNetConnected_.ProductsForm.resources
