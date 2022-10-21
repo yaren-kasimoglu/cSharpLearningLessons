@@ -1,0 +1,11 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\DongulerCalisma\DongulerCalisma\bin\Debug\DongulerCalisma.exe.config
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\DongulerCalisma\DongulerCalisma\bin\Debug\DongulerCalisma.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\DongulerCalisma\DongulerCalisma\bin\Debug\DongulerCalisma.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\DongulerCalisma\DongulerCalisma\obj\Debug\DongulerCalisma.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\DongulerCalisma\DongulerCalisma\obj\Debug\DongulerCalisma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\DongulerCalisma\DongulerCalisma\obj\Debug\DongulerCalisma.Form1.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\DongulerCalisma\DongulerCalisma\obj\Debug\DongulerCalisma.Properties.Resources.resources
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\DongulerCalisma\DongulerCalisma\obj\Debug\DongulerCalisma.csproj.GenerateResource.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\DongulerCalisma\DongulerCalisma\obj\Debug\DongulerCalisma.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\DongulerCalisma\DongulerCalisma\obj\Debug\DongulerCalisma.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\DongulerCalisma\DongulerCalisma\obj\Debug\DongulerCalisma.pdb
