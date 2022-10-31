@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSS_Intro/1.0.0": {
+        "runtime": {
+          "CSS_Intro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSS_Intro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

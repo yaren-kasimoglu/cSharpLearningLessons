@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Simple Selector</title>
+    <style>
+        #box1, #box3, #box5 {
+            width: 100px;
+            height: 100px;
+            border: 3px solid green;
+            border-radius: 10px;
+        }
+
+        .box {
+            width: 100px;
+            height: 100px;
+            border: 3px solid green;
+            border-radius: 10px;
+            color:purple;
+            text-align:center;
+            line-height: 100px;
+        }
+
+        div .box:first-child {
+            color: aqua
+        }
+    </style>
+
+</head>
+<body>
+
+    <h1>
+        Simple Selector
+    </h1>
+    <div>
+        <div class="box" id="box1"><span>Box1</span></div>
+        <div class="box" id="box2"><span>Box2</span></div>
+        <div class="box" id="box3"><span>Box3</span></div>
+        <div class="box" id="box4"><span>Box4</span></div>
+        <div class="box" id="box5"><span>Box5</span></div>
+        <div class="box" id="box6"><span>Box6</span></div>
+        <div class="box" id="box7"><span>Box7</span></div>
+    </div>
+</body>
+</html>

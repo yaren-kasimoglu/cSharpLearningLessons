@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Personekl Kayıt Formu</title>
+    <stye>
+        label{
+        }
+        <!--internal şeklinde css uygulamasıdır
+        label elementşbe width olarak 100 px uygulandı
+        display: ekrandanbulunma şekli olarak da inline block şeçildi-->
+
+    </stye>
+</head>
+<body>
+    <center>
+        <div style="width: 400px; border: 1px solid blue " ;>
+            <fieldset>
+                <h3>Personel Kayıt Formu</h3>
+                <label>
+                    Deneme
+                </label>
+                <fieldset style="width">
+                    <legend>Kişisel Bilgiler</legend>
+                    <table>
+                        <tr><td>Ad Soyad : </td><td><input type="text" id="isimSoyisim" /></td></tr>
+                        <tr>
+                            <td>Cinsiyet : </td>
+                            <td>
+                                <input type="radio" id="gender" value="Cinsiyet" />
+                                <label for="woman">Kadın</label>
+                                <input type="radio" id="gender" value="Cinsiyet" />
+                                <label for="man">Erkek</label><br>
+                            </td>
+                        </tr>
+                    </table>
+                </fieldset>
+                <fieldset>
+                    <legend>Eğitim Bilgileri</legend>
+                    <table>
+                        <tr>
+                            <td>Lise: </td>
+                            <td>
+                                <input type="text" id="lise" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Üniversite: </td>
+                            <td>
+                                <input type="text" id="uni" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Doğum Tarihi: </td>
+                            <td>
+                                <input type="date" id="tarih" />
+                            </td>
+                        </tr>
+                    </table>
+                </fieldset>
+                <fieldset>
+                    <legend>Adres Bilgileri</legend>
+                    <table>
+                        <tr>
+                            <td>Şehir: </td>
+                            <td>
+                                <select id="cars">
+                                    <option value="1" selected>Ardahan</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>İlçe: </td>
+                            <td>
+                                <select id="cars">
+                                    <option value="1" selected>Göle</option>
+                                    <option value="2">Posof</option>
+                                    <option value="3">Damal</option>
+                                    <option value="4">Hanak</option>
+                                    <option value="5">Çılıdr</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Posta Kodu : </td>
+                            <td>
+                                <input type="text" id="postaKod" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Açık Adres: </td>
+                            <td>
+                                <textarea type="text" id="acikAdres"></textarea>
+                            </td>
+                        </tr>
+                    </table>
+                </fieldset>
+            </fieldset>
+        </div>
+    </center>
+</body>
+</html>
