@@ -1,0 +1,389 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.WebUIL\\CRMProject.WebUIL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.BL\\CRMProject.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.BL\\CRMProject.BL.csproj",
+        "projectName": "CRMProject.BL",
+        "projectPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.BL\\CRMProject.BL.csproj",
+        "packagesPath": "C:\\Users\\Yaren Kasimoglu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yaren Kasimoglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DAL\\CRMProject.DAL.csproj": {
+                "projectPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DAL\\CRMProject.DAL.csproj"
+              },
+              "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DTO\\CRMProject.DTO.csproj": {
+                "projectPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DTO\\CRMProject.DTO.csproj"
+              },
+              "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.Entities\\CRMProject.Entities.csproj": {
+                "projectPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.Entities\\CRMProject.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DAL\\CRMProject.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DAL\\CRMProject.DAL.csproj",
+        "projectName": "CRMProject.DAL",
+        "projectPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DAL\\CRMProject.DAL.csproj",
+        "packagesPath": "C:\\Users\\Yaren Kasimoglu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yaren Kasimoglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.Entities\\CRMProject.Entities.csproj": {
+                "projectPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.Entities\\CRMProject.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DTO\\CRMProject.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DTO\\CRMProject.DTO.csproj",
+        "projectName": "CRMProject.DTO",
+        "projectPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DTO\\CRMProject.DTO.csproj",
+        "packagesPath": "C:\\Users\\Yaren Kasimoglu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yaren Kasimoglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.Entities\\CRMProject.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.Entities\\CRMProject.Entities.csproj",
+        "projectName": "CRMProject.Entities",
+        "projectPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.Entities\\CRMProject.Entities.csproj",
+        "packagesPath": "C:\\Users\\Yaren Kasimoglu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yaren Kasimoglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.WebUIL\\CRMProject.WebUIL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.WebUIL\\CRMProject.WebUIL.csproj",
+        "projectName": "CRMProject.WebUIL",
+        "projectPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.WebUIL\\CRMProject.WebUIL.csproj",
+        "packagesPath": "C:\\Users\\Yaren Kasimoglu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.WebUIL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yaren Kasimoglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.BL\\CRMProject.BL.csproj": {
+                "projectPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.BL\\CRMProject.BL.csproj"
+              },
+              "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DTO\\CRMProject.DTO.csproj": {
+                "projectPath": "C:\\Users\\Yaren Kasimoglu\\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\\Desktop\\GitHubProjects\\CRMProject\\CRMProject.DTO\\CRMProject.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

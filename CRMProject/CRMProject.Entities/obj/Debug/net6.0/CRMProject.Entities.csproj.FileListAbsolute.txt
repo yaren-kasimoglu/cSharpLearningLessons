@@ -1,0 +1,12 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Entities\bin\Debug\net6.0\CRMProject.Entities.deps.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Entities\bin\Debug\net6.0\CRMProject.Entities.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Entities\bin\Debug\net6.0\CRMProject.Entities.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Entities\obj\Debug\net6.0\CRMProject.Entities.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Entities\obj\Debug\net6.0\CRMProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Entities\obj\Debug\net6.0\CRMProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Entities\obj\Debug\net6.0\CRMProject.Entities.AssemblyInfo.cs
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Entities\obj\Debug\net6.0\CRMProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Entities\obj\Debug\net6.0\CRMProject.Entities.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Entities\obj\Debug\net6.0\refint\CRMProject.Entities.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Entities\obj\Debug\net6.0\CRMProject.Entities.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Entities\obj\Debug\net6.0\ref\CRMProject.Entities.dll

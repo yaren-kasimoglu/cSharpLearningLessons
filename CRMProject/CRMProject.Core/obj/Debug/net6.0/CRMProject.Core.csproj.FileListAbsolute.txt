@@ -1,0 +1,12 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Core\bin\Debug\net6.0\CRMProject.Core.deps.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Core\bin\Debug\net6.0\CRMProject.Core.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Core\bin\Debug\net6.0\CRMProject.Core.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Core\obj\Debug\net6.0\CRMProject.Core.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Core\obj\Debug\net6.0\CRMProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Core\obj\Debug\net6.0\CRMProject.Core.AssemblyInfoInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Core\obj\Debug\net6.0\CRMProject.Core.AssemblyInfo.cs
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Core\obj\Debug\net6.0\CRMProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Core\obj\Debug\net6.0\CRMProject.Core.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Core\obj\Debug\net6.0\refint\CRMProject.Core.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Core\obj\Debug\net6.0\CRMProject.Core.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.Core\obj\Debug\net6.0\ref\CRMProject.Core.dll

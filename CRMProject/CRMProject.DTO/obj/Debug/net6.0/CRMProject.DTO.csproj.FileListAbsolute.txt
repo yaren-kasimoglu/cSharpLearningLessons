@@ -1,0 +1,12 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.DTO\bin\Debug\net6.0\CRMProject.DTO.deps.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.DTO\bin\Debug\net6.0\CRMProject.DTO.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.DTO\bin\Debug\net6.0\CRMProject.DTO.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.DTO\obj\Debug\net6.0\CRMProject.DTO.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.DTO\obj\Debug\net6.0\CRMProject.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.DTO\obj\Debug\net6.0\CRMProject.DTO.AssemblyInfoInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.DTO\obj\Debug\net6.0\CRMProject.DTO.AssemblyInfo.cs
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.DTO\obj\Debug\net6.0\CRMProject.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.DTO\obj\Debug\net6.0\CRMProject.DTO.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.DTO\obj\Debug\net6.0\refint\CRMProject.DTO.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.DTO\obj\Debug\net6.0\CRMProject.DTO.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\CRMProject\CRMProject.DTO\obj\Debug\net6.0\ref\CRMProject.DTO.dll
