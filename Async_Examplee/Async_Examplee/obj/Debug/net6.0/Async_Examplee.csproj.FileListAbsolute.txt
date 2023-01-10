@@ -1,0 +1,15 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\bin\Debug\net6.0\Async_Examplee.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\bin\Debug\net6.0\Async_Examplee.deps.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\bin\Debug\net6.0\Async_Examplee.runtimeconfig.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\bin\Debug\net6.0\Async_Examplee.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\bin\Debug\net6.0\Async_Examplee.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\obj\Debug\net6.0\Async_Examplee.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\obj\Debug\net6.0\Async_Examplee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\obj\Debug\net6.0\Async_Examplee.AssemblyInfoInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\obj\Debug\net6.0\Async_Examplee.AssemblyInfo.cs
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\obj\Debug\net6.0\Async_Examplee.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\obj\Debug\net6.0\Async_Examplee.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\obj\Debug\net6.0\refint\Async_Examplee.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\obj\Debug\net6.0\Async_Examplee.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\obj\Debug\net6.0\Async_Examplee.genruntimeconfig.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Async_Examplee\Async_Examplee\obj\Debug\net6.0\ref\Async_Examplee.dll

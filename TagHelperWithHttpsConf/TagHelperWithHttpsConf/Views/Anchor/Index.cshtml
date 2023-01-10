@@ -1,0 +1,26 @@
+﻿@Html.ActionLink("Ürün Listesi","ProductList","Anchor")@* Helper Metodlar*@
+@Html.ActionLink("Ürün Listesi","ProductList","Anchor", new {@class="link-class"})@* Helper Metodlar*@
+<hr />
+<h1>Tag Helper Anchor</h1>
+@*
+    asp-controller
+    asp-action
+    asp-route-id
+    asp-route
+    asp-protocol---http-https
+*@
+
+<a asp-controller="Anchor" asp-action="ProductList" class="link-class">Ürün Listesi</a>
+
+Html Çıktı <a href="/Anchor/ProductList" class="link-class">Ürün Listesi</a>
+
+<h1>Ürün Yönlendirmesi</h1>
+<a asp-controller="Anchor" asp-action="ProductList">Ürün Listesi</a>
+<hr />
+<a asp-route="urun-listesi">Ürün Listesi Route</a>
+<hr />
+<a asp-controller="Home" asp-action="Index" asp-protocol="https">Https protocol link</a>
+<hr />
+<a asp-protocol="https" asp-host="google.com" asp-controller="Home" asp-action="About">asp hoost link</a>
+
+

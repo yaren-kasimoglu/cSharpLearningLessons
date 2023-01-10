@@ -1,0 +1,12 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DTO\bin\Debug\net6.0\Blog_MVC.DTO.deps.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DTO\bin\Debug\net6.0\Blog_MVC.DTO.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DTO\bin\Debug\net6.0\Blog_MVC.DTO.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DTO\obj\Debug\net6.0\Blog_MVC.DTO.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DTO\obj\Debug\net6.0\Blog_MVC.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DTO\obj\Debug\net6.0\Blog_MVC.DTO.AssemblyInfoInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DTO\obj\Debug\net6.0\Blog_MVC.DTO.AssemblyInfo.cs
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DTO\obj\Debug\net6.0\Blog_MVC.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DTO\obj\Debug\net6.0\Blog_MVC.DTO.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DTO\obj\Debug\net6.0\refint\Blog_MVC.DTO.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DTO\obj\Debug\net6.0\Blog_MVC.DTO.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DTO\obj\Debug\net6.0\ref\Blog_MVC.DTO.dll

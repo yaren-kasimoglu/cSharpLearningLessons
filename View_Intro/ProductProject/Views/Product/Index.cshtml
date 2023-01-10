@@ -1,0 +1,13 @@
+﻿@model List<ProductProject.Models.ProductVM>
+
+<h1>Top 10 Ürün Listesi</h1>
+<div style="display:inline-flex">
+@{
+
+    foreach (var item in Model)
+    {
+        <partial name="Component/ProductPartial" model="item"/>
+    }
+}
+
+</div>

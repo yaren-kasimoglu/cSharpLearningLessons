@@ -1,0 +1,15 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\bin\Debug\net6.0\FuncExamplee.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\bin\Debug\net6.0\FuncExamplee.deps.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\bin\Debug\net6.0\FuncExamplee.runtimeconfig.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\bin\Debug\net6.0\FuncExamplee.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\bin\Debug\net6.0\FuncExamplee.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\obj\Debug\net6.0\FuncExamplee.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\obj\Debug\net6.0\FuncExamplee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\obj\Debug\net6.0\FuncExamplee.AssemblyInfoInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\obj\Debug\net6.0\FuncExamplee.AssemblyInfo.cs
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\obj\Debug\net6.0\FuncExamplee.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\obj\Debug\net6.0\FuncExamplee.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\obj\Debug\net6.0\refint\FuncExamplee.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\obj\Debug\net6.0\FuncExamplee.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\obj\Debug\net6.0\FuncExamplee.genruntimeconfig.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\FuncExamplee\FuncExamplee\obj\Debug\net6.0\ref\FuncExamplee.dll

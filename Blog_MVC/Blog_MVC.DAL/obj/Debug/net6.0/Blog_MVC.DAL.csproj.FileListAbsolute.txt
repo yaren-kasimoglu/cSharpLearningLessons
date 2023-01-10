@@ -1,0 +1,17 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\bin\Debug\net6.0\Blog_MVC.DAL.deps.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\bin\Debug\net6.0\Blog_MVC.DAL.runtimeconfig.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\bin\Debug\net6.0\Blog_MVC.DAL.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\bin\Debug\net6.0\Blog_MVC.DAL.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\bin\Debug\net6.0\Blog_MVC.Entities.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\bin\Debug\net6.0\Blog_MVC.Entities.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\obj\Debug\net6.0\Blog_MVC.DAL.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\obj\Debug\net6.0\Blog_MVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\obj\Debug\net6.0\Blog_MVC.DAL.AssemblyInfoInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\obj\Debug\net6.0\Blog_MVC.DAL.AssemblyInfo.cs
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\obj\Debug\net6.0\Blog_MVC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\obj\Debug\net6.0\Blog_MVC.DAL.csproj.CopyComplete
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\obj\Debug\net6.0\Blog_MVC.DAL.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\obj\Debug\net6.0\refint\Blog_MVC.DAL.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\obj\Debug\net6.0\Blog_MVC.DAL.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\obj\Debug\net6.0\Blog_MVC.DAL.genruntimeconfig.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.DAL\obj\Debug\net6.0\ref\Blog_MVC.DAL.dll

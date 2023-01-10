@@ -1,0 +1,68 @@
+﻿
+@model TagHelperWithHttpsConf.Models.ProductVM
+@* 
+    methodtype: get post gibi http method type lardır
+    action: url kısmı, sunucu tarafındaki url kısmı. o datayı nereye göndereceğiz.
+*@
+
+
+@*<form action="/formaction" method="post">
+
+</form>*@
+
+<form asp-controller="Form" asp-action="FormSave" method="post">
+    <div class="row">
+        <div class="col-md-2">
+            <label asp-for="ProductName"> </label>
+            <input type="text" asp-for="ProductName" />
+
+        </div>
+    </div>
+    <button type="submit" class="btn btn-success">  Kaydet</button>
+</form>
+
+<form asp-route="form-save" method="post">
+    <div class="row">
+        <div class="col-md-2">
+            <label asp-for="ProductName"> </label>
+            <input type="text" asp-for="ProductName" />
+
+        </div>
+        <div>
+           <label asp-for="IsDicsounted"></label>
+           <input type="checkbox" asp-for="IsDicsounted" />
+        </div>
+        <div>
+            <label asp-for="ExpireDate"></label>
+            <input type="datetime" asp-for="ExpireDate" />
+        </div>
+    </div>
+    <button type="submit" class="btn btn-success">  Kaydet</button>
+</form>
+
+<p>
+    asp-route=> tekli bir şekilde sunucu tarafına data gönderilir.
+    asp-all-route-data=> elimizdeki key value şeklinde olan collection querystring ekleme işlemi yapar.
+    Form sunucu tarafına gönderirken querystring içerisinde birden fazla parametre gönderecek isek asp-all-route-data kullanırız
+</p>
+
+@{
+    var prm = new Dictionary<string, string> { { "key1", "value1" }, { "key2", "value2" } };
+}
+<form asp-route="form-save" asp-all-route-data="prm" method="post">
+    <div class="row">
+        <div class="col-md-2">
+            <label asp-for="ProductName"> </label>
+            <input type="text" asp-for="ProductName" />
+        </div>
+        <div>
+            <label asp-for="IsDicsounted"></label>
+            <input type="checkbox" asp-for="IsDicsounted" />
+        </div>
+        <div>
+            <label asp-for="ExpireDate"></label>
+            <input type="datetime" asp-for="ExpireDate" />
+        </div>
+    </div>
+    <button type="submit" class="btn btn-success">  Kaydet</button>
+</form>

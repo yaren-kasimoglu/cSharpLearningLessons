@@ -1,0 +1,63 @@
+﻿@model FutbolcuUyg.Models.VM.CreateVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Futbolcu</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Futbolcu.Id" class="control-label"></label>
+                <input asp-for="Futbolcu.Id" class="form-control" />
+                <span asp-validation-for="Futbolcu.Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Futbolcu.AdiSoyadi" class="control-label"></label>
+                <input asp-for="Futbolcu.AdiSoyadi" class="form-control" />
+                <span asp-validation-for="Futbolcu.AdiSoyadi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Futbolcu.MevkiId" class="control-label"></label>
+                
+                <select asp-for="Futbolcu.MevkiId" class="form-control">
+                    <option>Lütfen Seçiniz...</option>
+                    @foreach (Mevki item in Model.Mevki)
+                    {
+                      <option  value="@item.Id">@item.MevkiName</option> 
+                    }
+                </select>
+
+                <span asp-validation-for="Futbolcu.MevkiId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Futbolcu.TakimId" class="control-label"></label>
+                
+                <select asp-for="Futbolcu.TakimId" class="form-control">
+                    <option>Lütfen Seçiniz...</option>
+                    @foreach (Takim item in Model.Takim)
+                    {
+                        <option value="@item.TakimId">@item.TakimAdi</option>
+                    }
+                </select>
+                <span asp-validation-for="Futbolcu.TakimId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

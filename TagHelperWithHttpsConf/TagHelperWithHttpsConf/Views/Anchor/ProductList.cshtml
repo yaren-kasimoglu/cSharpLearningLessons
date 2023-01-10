@@ -1,0 +1,25 @@
+﻿@model List<TagHelperWithHttpsConf.Models.ProductVM>
+
+    <h1>Ürün Listesi</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Ürün Id</th>
+                <th>Ürün Adı</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach(var item in Model){
+                    <tr>
+                    <td>@item.Id</td>
+                    <td>@item.ProductName</td>
+                    <th>
+                    <a asp-controller="Anchor" asp-action="Product" asp-route-id="@item.Id"> Ürün Detay</a>
+                    </th>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>

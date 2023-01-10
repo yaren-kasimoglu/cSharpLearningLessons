@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlogProject.WEBUI
+build_property.RootNamespace = BlogProject.WEBUI
+build_property.ProjectDir = C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\BlogProject\BlogProject.WEBUI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\BlogProject\BlogProject.WEBUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Areas/Administrator/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xDYXRlZ29yeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Areas/Administrator/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xDYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Areas/Administrator/Views/Category/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xDYXRlZ29yeVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Areas/Administrator/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Areas/Administrator/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Areas/Administrator/Views/Shared/PartialView/_SideCategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xTaGFyZWRcUGFydGlhbFZpZXdcX1NpZGVDYXRlZ29yeUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Areas/Administrator/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Areas/Administrator/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Areas/Administrator/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/Category/PostList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcUG9zdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/Home/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/Home/SearchResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2hSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/Shared/PartialView/_SideCategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxWaWV3XF9TaWRlQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Areas/Administrator/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRvclxWaWV3c1xTaGFyZWRcX0FkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-6mbx7f8ti2
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/BlogProject/BlogProject.WEBUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-e0efwn658d

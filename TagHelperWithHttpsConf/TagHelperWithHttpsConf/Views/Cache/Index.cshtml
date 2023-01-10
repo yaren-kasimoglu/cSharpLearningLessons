@@ -1,0 +1,21 @@
+﻿<h1>Output Cache</h1>
+<h1> Cache Tag Helper</h1>
+@DateTime.Now
+<br />
+@* eğer biz süre belirtmezsek default olarak 20 dakika boyunca cache içerisine alınan datalar memory den karşılanır.*@
+@*enabled default value true dur. false yaparsak cache özelliği kapanmış olur*@
+@* expires after => Belirtilen süre kadar bekler sonra tekrar cache yenilenerek oluşturulur*@
+@**@
+@*<cache enabled=true expires-after="@TimeSpan.FromSeconds(10)">
+    @DateTime.Now
+</cache>*@
+
+@*Expires on*@
+@*<cache enabled=true expires-on="@new DateTime(2022,11,16,0,0,0)">
+    @DateTime.Now
+</cache>*@
+
+@* expires-sliding => belirtilen süre içinde yeni istek gelmezse cache bpzulur sonra yeniden oluşturulur*@
+<cache enabled=true expires-sliding="@TimeSpan.FromSeconds(10)">
+    @DateTime.Now
+</cache>

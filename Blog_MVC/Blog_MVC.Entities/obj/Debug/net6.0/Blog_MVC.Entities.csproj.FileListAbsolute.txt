@@ -1,0 +1,12 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.Entities\bin\Debug\net6.0\Blog_MVC.Entities.deps.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.Entities\bin\Debug\net6.0\Blog_MVC.Entities.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.Entities\bin\Debug\net6.0\Blog_MVC.Entities.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.Entities\obj\Debug\net6.0\Blog_MVC.Entities.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.Entities\obj\Debug\net6.0\Blog_MVC.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.Entities\obj\Debug\net6.0\Blog_MVC.Entities.AssemblyInfoInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.Entities\obj\Debug\net6.0\Blog_MVC.Entities.AssemblyInfo.cs
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.Entities\obj\Debug\net6.0\Blog_MVC.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.Entities\obj\Debug\net6.0\Blog_MVC.Entities.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.Entities\obj\Debug\net6.0\refint\Blog_MVC.Entities.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.Entities\obj\Debug\net6.0\Blog_MVC.Entities.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\Blog_MVC\Blog_MVC.Entities\obj\Debug\net6.0\ref\Blog_MVC.Entities.dll

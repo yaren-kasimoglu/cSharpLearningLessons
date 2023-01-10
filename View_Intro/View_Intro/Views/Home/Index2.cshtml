@@ -1,0 +1,15 @@
+﻿<h1>Index2 Sayfası</h1>
+
+<partial name="Companent/HsTextBox" />
+
+@{
+    var textboxModel = new View_Intro.Models.HsTextBoxModel();
+    textboxModel.Name = "Müşteri Adı";
+    textboxModel.Value = "Yaren Kasımoğlu";
+
+
+}
+<partial name="Companent/HsTextBox" model="@textboxModel"/>
+
+
+<partial name="Companent/HsTextBox" model='new HsTextBoxModel(){Name="ShipperName", Value="DenemeShipper" }'/>

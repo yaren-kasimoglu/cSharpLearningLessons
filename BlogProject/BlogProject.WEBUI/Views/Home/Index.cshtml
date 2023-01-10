@@ -1,0 +1,41 @@
+﻿@model List<Post>
+
+@{
+    ViewData["Title"] = "Ana Sayfa";
+}
+
+@foreach (Post gonderi in Model)
+{
+    <article class="col-12 col-md-6 tm-post">
+        <hr class="tm-hr-primary">
+        <a asp-action="Post" asp-controller="Home" asp-route-id="@gonderi.ID" class="effect-lily tm-post-link tm-pt-60">
+            <div class="tm-post-link-inner">
+                <img src="@gonderi.ImagePath" alt="Image" class="img-fluid">
+            </div>
+            <span class="position-absolute tm-new-badge">New</span>
+            <h2 class="tm-pt-30 tm-color-primary tm-post-title"><a asp-action="Post" asp-controller="Home" asp-route-id="@gonderi.ID">@gonderi.Title</a></h2>
+        </a>
+        <p class="tm-pt-30">
+            @*gonderinin ilk 100 karakterini goster*@
+            @if (gonderi.PostDetail.Length>100)
+            {
+                @gonderi.PostDetail.Substring(0,100) <span>...</span>
+           }
+           else
+            {
+                    @gonderi.PostDetail
+            }
+           
+        </p>
+        <div class="d-flex justify-content-between tm-pt-45">
+            <span class="tm-color-primary">@gonderi.Tags</span>
+            <span class="tm-color-primary">@gonderi.CreatedDate.Value.ToShortDateString()</span>
+        </div>
+        <hr>
+        <div class="d-flex justify-content-between">
+            @*<span>@gonderi.Comments.Count</span>
+            <span>@gonderi.UserID</span>*@
+
+        </div>
+    </article>
+}

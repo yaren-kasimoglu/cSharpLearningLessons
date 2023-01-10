@@ -1,0 +1,54 @@
+﻿@model FutbolcuUyg.Models.VM.ListVM
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                AdiSoyadi
+            </th>
+            <th>
+                MevkiId
+            </th>
+            <th>
+                TakimId
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Futbolcular)
+        {
+            <tr>
+                <td>
+                    @item.Id
+                </td>
+                <td>
+                    @item.AdiSoyadi
+                </td>
+                <td>
+                    @Model.Mevkiler.FirstOrDefault(x=>x.Id==item.MevkiId).MevkiName
+                </td>
+                <td>
+                    @Model.Takimlar.FirstOrDefault(x=>x.TakimId==item.TakimId).TakimAdi
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

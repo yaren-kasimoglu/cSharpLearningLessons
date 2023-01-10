@@ -1,0 +1,8 @@
+﻿@Html.ActionLink("Ürün Listesi","ProductList","Anchor")@* Helper Metodlar*@
+@Html.ActionLink("Ürün Listesi","ProductList","Anchor", new {@class="link-class"})@* Helper Metodlar*@
+<hr />
+<h1>Tag Helper Anchor</h1>
+
+<a asp-controller="Anchor" asp-action="ProductList" class="link-class">Ürün Listesi</a>
+
+Html Çıktı <a href="/Anchor/ProductList" class="link-class">Ürün Listesi</a>
