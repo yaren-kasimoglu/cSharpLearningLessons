@@ -1,0 +1,17 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\obj\Debug\net7.0\HS7_BP.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\obj\Debug\net7.0\HS7_BP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\obj\Debug\net7.0\HS7_BP.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\obj\Debug\net7.0\HS7_BP.Infrastructure.AssemblyInfo.cs
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\obj\Debug\net7.0\HS7_BP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\bin\Debug\net7.0\HS7_BP.Infrastructure.deps.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\bin\Debug\net7.0\HS7_BP.Infrastructure.runtimeconfig.json
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\bin\Debug\net7.0\HS7_BP.Infrastructure.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\bin\Debug\net7.0\HS7_BP.Infrastructure.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\bin\Debug\net7.0\HS7_BP.Domain.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\bin\Debug\net7.0\HS7_BP.Domain.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\obj\Debug\net7.0\HS7_BP.Infrastructure.csproj.CopyComplete
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\obj\Debug\net7.0\HS7_BP.Infrastructure.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\obj\Debug\net7.0\refint\HS7_BP.Infrastructure.dll
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\obj\Debug\net7.0\HS7_BP.Infrastructure.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\obj\Debug\net7.0\HS7_BP.Infrastructure.genruntimeconfig.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\HS7_BP\HS7_BP.Infrastructure\obj\Debug\net7.0\ref\HS7_BP.Infrastructure.dll

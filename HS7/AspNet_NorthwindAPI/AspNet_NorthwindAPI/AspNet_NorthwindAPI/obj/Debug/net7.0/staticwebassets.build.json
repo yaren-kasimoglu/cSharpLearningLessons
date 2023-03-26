@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pVWfl+8aVwh8Tyn7LJG4uqdlZd7p2RGRbIlb85WSFsY=",
+  "Source": "AspNet_NorthwindAPI",
+  "BasePath": "_content/AspNet_NorthwindAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

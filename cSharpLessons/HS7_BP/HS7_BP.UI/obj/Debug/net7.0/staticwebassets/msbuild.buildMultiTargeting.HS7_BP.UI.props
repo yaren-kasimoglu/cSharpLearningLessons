@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HS7_BP.UI.props" />
+</Project>

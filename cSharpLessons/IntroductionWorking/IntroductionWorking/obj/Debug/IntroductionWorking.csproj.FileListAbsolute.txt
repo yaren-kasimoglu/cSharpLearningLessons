@@ -1,0 +1,8 @@
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\IntroductionWorking\IntroductionWorking\bin\Debug\IntroductionWorking.exe.config
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\IntroductionWorking\IntroductionWorking\bin\Debug\IntroductionWorking.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\IntroductionWorking\IntroductionWorking\bin\Debug\IntroductionWorking.pdb
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\IntroductionWorking\IntroductionWorking\obj\Debug\IntroductionWorking.csproj.AssemblyReference.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\IntroductionWorking\IntroductionWorking\obj\Debug\IntroductionWorking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\IntroductionWorking\IntroductionWorking\obj\Debug\IntroductionWorking.csproj.CoreCompileInputs.cache
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\IntroductionWorking\IntroductionWorking\obj\Debug\IntroductionWorking.exe
+C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\cSharpLessons\IntroductionWorking\IntroductionWorking\obj\Debug\IntroductionWorking.pdb

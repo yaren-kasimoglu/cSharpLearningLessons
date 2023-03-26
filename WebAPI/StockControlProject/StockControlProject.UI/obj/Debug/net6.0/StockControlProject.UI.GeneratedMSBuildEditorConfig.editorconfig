@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StockControlProject.UI
+build_property.RootNamespace = StockControlProject.UI
+build_property.ProjectDir = C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\WebAPI\StockControlProject\StockControlProject.UI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Yaren Kasimoglu\OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri\Desktop\GitHubProjects\WebAPI\StockControlProject\StockControlProject.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Category/KategoriEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcS2F0ZWdvcmlFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Category/KategoriGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcS2F0ZWdvcmlHdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Order/SiparisDetayiGor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcU2lwYXJpc0RldGF5aUdvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Order/SiparisEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcU2lwYXJpc0VrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Product/UrunEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcnVuRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Product/UrunGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcnVuR3VuY2VsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Supplier/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3VwcGxpZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Supplier/TedarikciEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3VwcGxpZXJcVGVkYXJpa2NpRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Supplier/TedarikciGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3VwcGxpZXJcVGVkYXJpa2NpR3VuY2VsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/User/KullaniciEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxLdWxsYW5pY2lFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/User/KullaniciGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxLdWxsYW5pY2lHdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Supplier/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3VwcGxpZXJcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Supplier/Views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3VwcGxpZXJcVmlld3NcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Supplier/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3VwcGxpZXJcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Supplier/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3VwcGxpZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Supplier/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3VwcGxpZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/User/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/User/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxTaGFyZWRcX1VzZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/User/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/User/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/User/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ks46kmjkik
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/Supplier/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3VwcGxpZXJcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qfvqc2e162
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Areas/User/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-ys2mmxjkz3
+
+[C:/Users/Yaren Kasimoglu/OneDrive - TCM Bilişim ve Danışmanlık Hizmetleri/Desktop/GitHubProjects/WebAPI/StockControlProject/StockControlProject.UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ykrj7yugyw

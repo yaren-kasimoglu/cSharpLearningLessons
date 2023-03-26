@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zI6YbPGPIyYMKL4TLr/gy2b4plf2v8T+jOfbwC/ZfNRNjQek97ZNg4a1P5E+50t3Z0m2pbGEYsL5SnCkiKHJ3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ridvan.aksoy\\Desktop\\HS7-Egitim Dosyaları\\11-Web API\\18.03\\HazirSwaggerUygulamasi\\HazirSwaggerUygulamasi\\HazirSwaggerUygulamasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ridvan.aksoy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "C:\\Users\\ridvan.aksoy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ridvan.aksoy\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\ridvan.aksoy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ridvan.aksoy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ridvan.aksoy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ridvan.aksoy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
